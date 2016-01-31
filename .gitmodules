@@ -1,0 +1,3 @@
+[submodule "carddavmate"]
+	path = carddavmate
+	url = https://github.com/cloudfleet/carddavmate
